@@ -219,7 +219,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../images/naslovna8.jpg) no-repeat;
+    background:url(https://raw.githubusercontent.com/vikiandonova/Negotinski-Domasni-Proizvodi.github.io/main/IMAGES/naslovna8.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
